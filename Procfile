@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run streamlit_ML1.py
+web: sh setup.sh && streamlit run streamlit_misra.py
